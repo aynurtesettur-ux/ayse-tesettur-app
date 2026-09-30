@@ -5,3 +5,5 @@ requests
 cloudinary
 python-dotenv
 jinja2
+cloudinary
+jinja2
